@@ -1,0 +1,23 @@
+*{
+    color: black;
+    background-color: #fff;
+    font-family: 'Inter' sans-serif;
+}
+.whoiam{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: -320px;
+    margin-left: 430px;
+
+}
+.aboutcats{
+    margin-top: 10px;
+    margin-left: 270px ;
+    margin-right: -95px;
+    padding: 10px 993px 997px 160px;
+    font-size: 18px;
+}
+.cat{
+    padding-left: 40px;
+    padding-top: 40px;
+}
